@@ -1,0 +1,501 @@
+employee_id,department,pay_type,regular_hours,overtime_hours,hourly_rate,shift_type,approval_status
+EMP-1001,Operations,Hourly,40.0,0.0,22.68,Day,Approved
+EMP-1002,Operations,Hourly,40.0,0.0,33.17,Weekend Differential,Approved
+EMP-1003,Facilities,Hourly,40.0,0.0,19.59,Weekend Differential,Approved
+EMP-1004,Human Resources,Hourly,40.0,12.0,21.38,Weekend Differential,Flagged-Manager Review
+EMP-1005,Logistics,Hourly,40.0,0.0,22.73,Day,Approved
+EMP-1006,Facilities,Hourly,40.0,2.5,20.64,Day,Approved
+EMP-1007,Operations,Hourly,40.0,2.5,24.1,Weekend Differential,Approved
+EMP-1008,Customer Support,Salaried,40.0,0.0,48.24,Weekend Differential,Approved
+EMP-1009,Operations,Salaried,40.0,0.0,39.46,Weekend Differential,Approved
+EMP-1010,Customer Support,Salaried,40.0,0.0,45.46,Night,Approved
+EMP-1011,Human Resources,Hourly,40.0,12.0,19.18,Day,Flagged-Manager Review
+EMP-1012,Operations,Salaried,40.0,0.0,51.66,Night,Approved
+EMP-1013,Customer Support,Hourly,40.0,0.0,32.18,Night,Approved
+EMP-1014,Customer Support,Hourly,40.0,12.0,22.54,Weekend Differential,Approved
+EMP-1015,Human Resources,Hourly,40.0,0.0,27.08,Day,Approved
+EMP-1016,Facilities,Hourly,40.0,12.0,34.82,Weekend Differential,Approved
+EMP-1017,Customer Support,Salaried,40.0,0.0,49.4,Day,Approved
+EMP-1018,Operations,Salaried,40.0,0.0,40.03,Day,Approved
+EMP-1019,Logistics,Salaried,40.0,0.0,44.18,Weekend Differential,Approved
+EMP-1020,Customer Support,Hourly,40.0,12.0,26.49,Night,Approved
+EMP-1021,Customer Support,Hourly,40.0,8.5,30.66,Night,Flagged-Manager Review
+EMP-1022,Human Resources,Hourly,40.0,0.0,21.73,Weekend Differential,Approved
+EMP-1023,Facilities,Hourly,40.0,0.0,18.8,Day,Approved
+EMP-1024,Logistics,Hourly,40.0,0.0,25.18,Night,Approved
+EMP-1025,Facilities,Hourly,40.0,2.5,25.96,Weekend Differential,Approved
+EMP-1026,Operations,Hourly,40.0,8.5,19.95,Night,Flagged-Manager Review
+EMP-1027,Operations,Hourly,40.0,0.0,20.69,Weekend Differential,Approved
+EMP-1028,Customer Support,Salaried,40.0,0.0,49.05,Weekend Differential,Approved
+EMP-1029,Operations,Salaried,40.0,0.0,37.46,Weekend Differential,Approved
+EMP-1030,Human Resources,Hourly,40.0,0.0,20.6,Weekend Differential,Approved
+EMP-1031,Human Resources,Salaried,40.0,0.0,44.97,Night,Approved
+EMP-1032,Operations,Hourly,40.0,2.5,24.17,Day,Approved
+EMP-1033,Operations,Hourly,40.0,0.0,27.65,Day,Approved
+EMP-1034,Facilities,Salaried,40.0,0.0,54.45,Weekend Differential,Approved
+EMP-1035,Logistics,Hourly,40.0,8.5,26.08,Day,Flagged-Manager Review
+EMP-1036,Human Resources,Salaried,40.0,0.0,40.58,Day,Approved
+EMP-1037,Human Resources,Hourly,40.0,12.0,29.73,Night,Flagged-Manager Review
+EMP-1038,Customer Support,Hourly,40.0,0.0,26.8,Day,Approved
+EMP-1039,Logistics,Hourly,40.0,8.5,18.36,Day,Approved
+EMP-1040,Operations,Hourly,40.0,0.0,28.73,Day,Approved
+EMP-1041,Operations,Salaried,40.0,0.0,31.77,Day,Approved
+EMP-1042,Customer Support,Hourly,40.0,0.0,21.64,Weekend Differential,Approved
+EMP-1043,Human Resources,Hourly,40.0,5.0,22.13,Night,Approved
+EMP-1044,Logistics,Hourly,40.0,2.5,29.2,Night,Approved
+EMP-1045,Facilities,Hourly,40.0,12.0,30.39,Weekend Differential,Approved
+EMP-1046,Operations,Hourly,40.0,0.0,23.77,Day,Approved
+EMP-1047,Logistics,Hourly,40.0,5.0,25.63,Day,Approved
+EMP-1048,Customer Support,Hourly,40.0,0.0,32.87,Night,Approved
+EMP-1049,Human Resources,Hourly,40.0,8.5,29.09,Day,Approved
+EMP-1050,Logistics,Hourly,40.0,0.0,26.26,Night,Approved
+EMP-1051,Operations,Hourly,40.0,5.0,18.04,Night,Approved
+EMP-1052,Facilities,Hourly,40.0,12.0,29.84,Weekend Differential,Flagged-Manager Review
+EMP-1053,Logistics,Hourly,40.0,0.0,21.7,Weekend Differential,Approved
+EMP-1054,Human Resources,Hourly,40.0,0.0,23.33,Weekend Differential,Approved
+EMP-1055,Facilities,Hourly,40.0,0.0,32.5,Day,Approved
+EMP-1056,Human Resources,Hourly,40.0,8.5,21.16,Day,Approved
+EMP-1057,Facilities,Hourly,40.0,0.0,33.13,Weekend Differential,Approved
+EMP-1058,Human Resources,Hourly,40.0,12.0,19.39,Weekend Differential,Flagged-Manager Review
+EMP-1059,Customer Support,Hourly,40.0,0.0,30.18,Night,Approved
+EMP-1060,Facilities,Hourly,40.0,5.0,28.97,Night,Approved
+EMP-1061,Operations,Hourly,40.0,8.5,28.56,Day,Approved
+EMP-1062,Human Resources,Hourly,40.0,2.5,22.51,Day,Approved
+EMP-1063,Logistics,Hourly,40.0,8.5,20.68,Weekend Differential,Flagged-Manager Review
+EMP-1064,Human Resources,Salaried,40.0,0.0,50.18,Weekend Differential,Approved
+EMP-1065,Operations,Hourly,40.0,12.0,27.43,Day,Approved
+EMP-1066,Customer Support,Hourly,40.0,8.5,19.82,Day,Flagged-Manager Review
+EMP-1067,Customer Support,Hourly,40.0,0.0,30.2,Weekend Differential,Approved
+EMP-1068,Customer Support,Hourly,40.0,0.0,22.27,Day,Approved
+EMP-1069,Facilities,Salaried,40.0,0.0,31.1,Night,Approved
+EMP-1070,Logistics,Hourly,40.0,12.0,22.45,Night,Flagged-Manager Review
+EMP-1071,Human Resources,Hourly,40.0,12.0,19.28,Day,Approved
+EMP-1072,Customer Support,Hourly,40.0,0.0,20.52,Day,Approved
+EMP-1073,Customer Support,Hourly,40.0,0.0,33.86,Night,Approved
+EMP-1074,Logistics,Hourly,40.0,2.5,29.34,Weekend Differential,Approved
+EMP-1075,Facilities,Salaried,40.0,0.0,48.74,Day,Approved
+EMP-1076,Logistics,Salaried,40.0,0.0,50.27,Night,Approved
+EMP-1077,Operations,Hourly,40.0,5.0,33.72,Weekend Differential,Approved
+EMP-1078,Logistics,Hourly,40.0,0.0,31.39,Night,Approved
+EMP-1079,Operations,Salaried,40.0,0.0,35.56,Night,Approved
+EMP-1080,Customer Support,Hourly,40.0,0.0,31.52,Day,Approved
+EMP-1081,Operations,Hourly,40.0,2.5,24.77,Day,Approved
+EMP-1082,Customer Support,Hourly,40.0,12.0,26.66,Weekend Differential,Flagged-Manager Review
+EMP-1083,Operations,Hourly,40.0,0.0,34.5,Weekend Differential,Approved
+EMP-1084,Customer Support,Hourly,40.0,2.5,28.14,Weekend Differential,Approved
+EMP-1085,Customer Support,Hourly,40.0,0.0,34.73,Night,Approved
+EMP-1086,Human Resources,Hourly,40.0,5.0,18.75,Day,Approved
+EMP-1087,Human Resources,Salaried,40.0,0.0,43.46,Weekend Differential,Approved
+EMP-1088,Logistics,Hourly,40.0,12.0,19.19,Night,Flagged-Manager Review
+EMP-1089,Operations,Hourly,40.0,2.5,23.11,Weekend Differential,Approved
+EMP-1090,Facilities,Hourly,40.0,8.5,29.85,Day,Approved
+EMP-1091,Facilities,Hourly,40.0,12.0,24.45,Day,Flagged-Manager Review
+EMP-1092,Facilities,Hourly,40.0,2.5,18.01,Day,Approved
+EMP-1093,Facilities,Hourly,40.0,2.5,28.31,Night,Approved
+EMP-1094,Facilities,Hourly,40.0,5.0,21.63,Weekend Differential,Approved
+EMP-1095,Logistics,Hourly,40.0,12.0,22.82,Weekend Differential,Flagged-Manager Review
+EMP-1096,Operations,Salaried,40.0,0.0,48.78,Weekend Differential,Approved
+EMP-1097,Customer Support,Hourly,40.0,0.0,21.39,Day,Approved
+EMP-1098,Logistics,Salaried,40.0,0.0,45.28,Day,Approved
+EMP-1099,Facilities,Hourly,40.0,0.0,28.71,Weekend Differential,Approved
+EMP-1100,Facilities,Hourly,40.0,12.0,22.15,Weekend Differential,Approved
+EMP-1101,Operations,Hourly,40.0,12.0,21.72,Weekend Differential,Flagged-Manager Review
+EMP-1102,Operations,Hourly,40.0,0.0,33.6,Night,Approved
+EMP-1103,Logistics,Salaried,40.0,0.0,46.69,Weekend Differential,Approved
+EMP-1104,Human Resources,Hourly,40.0,5.0,30.84,Weekend Differential,Approved
+EMP-1105,Human Resources,Hourly,40.0,5.0,33.42,Day,Approved
+EMP-1106,Facilities,Hourly,40.0,12.0,30.78,Night,Flagged-Manager Review
+EMP-1107,Logistics,Hourly,40.0,2.5,19.32,Day,Approved
+EMP-1108,Customer Support,Hourly,40.0,0.0,33.18,Day,Approved
+EMP-1109,Logistics,Hourly,40.0,12.0,29.8,Day,Approved
+EMP-1110,Facilities,Hourly,40.0,5.0,27.22,Day,Approved
+EMP-1111,Logistics,Salaried,40.0,0.0,39.74,Weekend Differential,Approved
+EMP-1112,Operations,Salaried,40.0,0.0,49.14,Night,Approved
+EMP-1113,Facilities,Hourly,40.0,5.0,23.98,Night,Approved
+EMP-1114,Human Resources,Hourly,40.0,8.5,27.28,Day,Flagged-Manager Review
+EMP-1115,Logistics,Hourly,40.0,5.0,26.26,Night,Approved
+EMP-1116,Facilities,Hourly,40.0,0.0,32.29,Weekend Differential,Approved
+EMP-1117,Human Resources,Hourly,40.0,8.5,24.7,Weekend Differential,Approved
+EMP-1118,Operations,Hourly,40.0,5.0,20.31,Day,Approved
+EMP-1119,Operations,Hourly,40.0,5.0,23.56,Night,Approved
+EMP-1120,Customer Support,Hourly,40.0,5.0,24.45,Night,Approved
+EMP-1121,Operations,Hourly,40.0,0.0,30.73,Night,Approved
+EMP-1122,Logistics,Hourly,40.0,12.0,31.28,Day,Approved
+EMP-1123,Logistics,Hourly,40.0,0.0,18.35,Day,Approved
+EMP-1124,Logistics,Hourly,40.0,0.0,19.94,Night,Approved
+EMP-1125,Customer Support,Hourly,40.0,8.5,20.85,Weekend Differential,Approved
+EMP-1126,Logistics,Salaried,40.0,0.0,32.7,Day,Approved
+EMP-1127,Customer Support,Hourly,40.0,5.0,33.44,Night,Approved
+EMP-1128,Logistics,Hourly,40.0,12.0,29.74,Day,Approved
+EMP-1129,Customer Support,Salaried,40.0,0.0,45.01,Day,Approved
+EMP-1130,Human Resources,Hourly,40.0,5.0,23.9,Weekend Differential,Approved
+EMP-1131,Customer Support,Hourly,40.0,0.0,29.01,Night,Approved
+EMP-1132,Facilities,Hourly,40.0,12.0,34.33,Night,Approved
+EMP-1133,Facilities,Hourly,40.0,12.0,26.87,Night,Flagged-Manager Review
+EMP-1134,Facilities,Hourly,40.0,2.5,30.43,Night,Approved
+EMP-1135,Logistics,Salaried,40.0,0.0,32.17,Night,Approved
+EMP-1136,Logistics,Hourly,40.0,12.0,27.69,Night,Flagged-Manager Review
+EMP-1137,Operations,Hourly,40.0,5.0,23.53,Day,Approved
+EMP-1138,Customer Support,Hourly,40.0,8.5,23.79,Weekend Differential,Flagged-Manager Review
+EMP-1139,Human Resources,Hourly,40.0,0.0,34.12,Day,Approved
+EMP-1140,Facilities,Hourly,40.0,12.0,30.89,Night,Flagged-Manager Review
+EMP-1141,Facilities,Hourly,40.0,0.0,19.58,Night,Approved
+EMP-1142,Logistics,Hourly,40.0,5.0,27.89,Weekend Differential,Approved
+EMP-1143,Human Resources,Hourly,40.0,8.5,34.94,Night,Flagged-Manager Review
+EMP-1144,Facilities,Hourly,40.0,0.0,22.27,Weekend Differential,Approved
+EMP-1145,Logistics,Hourly,40.0,12.0,30.63,Day,Approved
+EMP-1146,Logistics,Hourly,40.0,8.5,22.7,Weekend Differential,Flagged-Manager Review
+EMP-1147,Operations,Salaried,40.0,0.0,37.41,Night,Approved
+EMP-1148,Logistics,Hourly,40.0,0.0,30.04,Night,Approved
+EMP-1149,Operations,Salaried,40.0,0.0,43.83,Weekend Differential,Approved
+EMP-1150,Logistics,Hourly,40.0,0.0,30.8,Day,Approved
+EMP-1151,Human Resources,Hourly,40.0,2.5,26.14,Day,Approved
+EMP-1152,Operations,Hourly,40.0,0.0,32.65,Day,Approved
+EMP-1153,Facilities,Hourly,40.0,12.0,27.81,Day,Approved
+EMP-1154,Logistics,Salaried,40.0,0.0,53.73,Day,Approved
+EMP-1155,Logistics,Hourly,40.0,8.5,31.0,Weekend Differential,Approved
+EMP-1156,Human Resources,Hourly,40.0,2.5,33.44,Weekend Differential,Approved
+EMP-1157,Facilities,Hourly,40.0,8.5,28.56,Weekend Differential,Approved
+EMP-1158,Logistics,Hourly,40.0,0.0,22.5,Day,Approved
+EMP-1159,Logistics,Hourly,40.0,0.0,19.28,Night,Approved
+EMP-1160,Facilities,Hourly,40.0,0.0,25.99,Day,Approved
+EMP-1161,Customer Support,Hourly,40.0,5.0,29.95,Day,Approved
+EMP-1162,Logistics,Salaried,40.0,0.0,49.7,Weekend Differential,Approved
+EMP-1163,Human Resources,Hourly,40.0,5.0,33.87,Day,Approved
+EMP-1164,Human Resources,Hourly,40.0,2.5,20.53,Day,Approved
+EMP-1165,Operations,Hourly,40.0,8.5,31.47,Weekend Differential,Flagged-Manager Review
+EMP-1166,Facilities,Hourly,40.0,12.0,29.71,Night,Flagged-Manager Review
+EMP-1167,Human Resources,Hourly,40.0,8.5,25.44,Day,Flagged-Manager Review
+EMP-1168,Customer Support,Hourly,40.0,0.0,18.44,Weekend Differential,Approved
+EMP-1169,Human Resources,Hourly,40.0,12.0,18.35,Night,Approved
+EMP-1170,Logistics,Hourly,40.0,2.5,29.08,Day,Approved
+EMP-1171,Human Resources,Hourly,40.0,0.0,31.84,Night,Approved
+EMP-1172,Customer Support,Hourly,40.0,0.0,23.46,Day,Approved
+EMP-1173,Customer Support,Hourly,40.0,12.0,26.42,Night,Approved
+EMP-1174,Facilities,Hourly,40.0,0.0,22.29,Night,Approved
+EMP-1175,Human Resources,Salaried,40.0,0.0,30.03,Weekend Differential,Approved
+EMP-1176,Facilities,Hourly,40.0,2.5,21.19,Weekend Differential,Approved
+EMP-1177,Facilities,Hourly,40.0,0.0,30.92,Night,Approved
+EMP-1178,Human Resources,Hourly,40.0,12.0,22.9,Night,Approved
+EMP-1179,Operations,Salaried,40.0,0.0,45.22,Day,Approved
+EMP-1180,Logistics,Hourly,40.0,5.0,18.23,Day,Approved
+EMP-1181,Logistics,Salaried,40.0,0.0,52.82,Night,Approved
+EMP-1182,Operations,Hourly,40.0,12.0,20.62,Night,Flagged-Manager Review
+EMP-1183,Facilities,Salaried,40.0,0.0,54.51,Day,Approved
+EMP-1184,Facilities,Hourly,40.0,8.5,24.52,Weekend Differential,Approved
+EMP-1185,Operations,Hourly,40.0,5.0,31.43,Night,Approved
+EMP-1186,Human Resources,Hourly,40.0,12.0,18.04,Night,Flagged-Manager Review
+EMP-1187,Logistics,Hourly,40.0,2.5,26.23,Weekend Differential,Approved
+EMP-1188,Human Resources,Hourly,40.0,0.0,33.86,Weekend Differential,Approved
+EMP-1189,Logistics,Hourly,40.0,5.0,21.97,Day,Approved
+EMP-1190,Customer Support,Hourly,40.0,5.0,29.99,Night,Approved
+EMP-1191,Logistics,Hourly,40.0,8.5,18.63,Weekend Differential,Flagged-Manager Review
+EMP-1192,Operations,Salaried,40.0,0.0,41.01,Weekend Differential,Approved
+EMP-1193,Facilities,Hourly,40.0,12.0,20.45,Day,Approved
+EMP-1194,Facilities,Hourly,40.0,8.5,22.51,Weekend Differential,Flagged-Manager Review
+EMP-1195,Operations,Salaried,40.0,0.0,51.31,Weekend Differential,Approved
+EMP-1196,Facilities,Salaried,40.0,0.0,45.67,Night,Approved
+EMP-1197,Human Resources,Hourly,40.0,12.0,19.16,Weekend Differential,Flagged-Manager Review
+EMP-1198,Logistics,Hourly,40.0,0.0,25.38,Weekend Differential,Approved
+EMP-1199,Operations,Hourly,40.0,0.0,29.8,Day,Approved
+EMP-1200,Customer Support,Hourly,40.0,2.5,22.99,Night,Approved
+EMP-1201,Logistics,Hourly,40.0,12.0,25.0,Day,Approved
+EMP-1202,Logistics,Hourly,40.0,8.5,32.8,Weekend Differential,Approved
+EMP-1203,Facilities,Salaried,40.0,0.0,33.58,Night,Approved
+EMP-1204,Customer Support,Hourly,40.0,5.0,29.34,Night,Approved
+EMP-1205,Human Resources,Hourly,40.0,2.5,25.51,Weekend Differential,Approved
+EMP-1206,Customer Support,Hourly,40.0,2.5,25.21,Night,Approved
+EMP-1207,Customer Support,Hourly,40.0,5.0,24.54,Day,Approved
+EMP-1208,Logistics,Hourly,40.0,2.5,24.1,Weekend Differential,Approved
+EMP-1209,Customer Support,Hourly,40.0,5.0,32.11,Night,Approved
+EMP-1210,Operations,Hourly,40.0,12.0,29.66,Day,Flagged-Manager Review
+EMP-1211,Customer Support,Hourly,40.0,2.5,21.91,Day,Approved
+EMP-1212,Logistics,Hourly,40.0,12.0,29.52,Weekend Differential,Approved
+EMP-1213,Operations,Salaried,40.0,0.0,46.16,Night,Approved
+EMP-1214,Facilities,Hourly,40.0,0.0,24.2,Day,Approved
+EMP-1215,Customer Support,Hourly,40.0,0.0,25.06,Day,Approved
+EMP-1216,Human Resources,Salaried,40.0,0.0,39.15,Weekend Differential,Approved
+EMP-1217,Customer Support,Salaried,40.0,0.0,36.42,Night,Approved
+EMP-1218,Customer Support,Hourly,40.0,0.0,23.76,Night,Approved
+EMP-1219,Operations,Hourly,40.0,12.0,34.43,Weekend Differential,Flagged-Manager Review
+EMP-1220,Human Resources,Hourly,40.0,0.0,31.44,Night,Approved
+EMP-1221,Human Resources,Hourly,40.0,12.0,24.27,Weekend Differential,Flagged-Manager Review
+EMP-1222,Human Resources,Hourly,40.0,2.5,28.86,Day,Approved
+EMP-1223,Logistics,Hourly,40.0,8.5,28.53,Night,Approved
+EMP-1224,Operations,Hourly,40.0,12.0,25.89,Night,Flagged-Manager Review
+EMP-1225,Operations,Hourly,40.0,2.5,34.09,Night,Approved
+EMP-1226,Operations,Hourly,40.0,0.0,33.08,Night,Approved
+EMP-1227,Facilities,Hourly,40.0,12.0,34.14,Weekend Differential,Flagged-Manager Review
+EMP-1228,Human Resources,Hourly,40.0,5.0,20.63,Weekend Differential,Approved
+EMP-1229,Operations,Salaried,40.0,0.0,45.39,Night,Approved
+EMP-1230,Operations,Hourly,40.0,5.0,21.69,Day,Approved
+EMP-1231,Customer Support,Hourly,40.0,8.5,29.66,Weekend Differential,Flagged-Manager Review
+EMP-1232,Operations,Hourly,40.0,0.0,21.23,Night,Approved
+EMP-1233,Operations,Hourly,40.0,8.5,28.91,Day,Approved
+EMP-1234,Customer Support,Hourly,40.0,8.5,20.14,Day,Approved
+EMP-1235,Human Resources,Hourly,40.0,0.0,21.67,Night,Approved
+EMP-1236,Logistics,Hourly,40.0,2.5,28.13,Day,Approved
+EMP-1237,Logistics,Hourly,40.0,0.0,31.57,Weekend Differential,Approved
+EMP-1238,Operations,Hourly,40.0,0.0,24.09,Weekend Differential,Approved
+EMP-1239,Customer Support,Hourly,40.0,0.0,22.51,Weekend Differential,Approved
+EMP-1240,Facilities,Hourly,40.0,5.0,30.68,Night,Approved
+EMP-1241,Customer Support,Hourly,40.0,8.5,19.85,Day,Approved
+EMP-1242,Human Resources,Hourly,40.0,0.0,28.94,Day,Approved
+EMP-1243,Facilities,Salaried,40.0,0.0,40.66,Day,Approved
+EMP-1244,Facilities,Hourly,40.0,0.0,25.54,Night,Approved
+EMP-1245,Human Resources,Hourly,40.0,8.5,20.15,Weekend Differential,Flagged-Manager Review
+EMP-1246,Facilities,Salaried,40.0,0.0,43.26,Night,Approved
+EMP-1247,Human Resources,Hourly,40.0,12.0,19.69,Day,Approved
+EMP-1248,Facilities,Hourly,40.0,2.5,21.88,Night,Approved
+EMP-1249,Facilities,Hourly,40.0,5.0,19.62,Night,Approved
+EMP-1250,Customer Support,Hourly,40.0,5.0,20.59,Day,Approved
+EMP-1251,Operations,Salaried,40.0,0.0,32.33,Day,Approved
+EMP-1252,Customer Support,Salaried,40.0,0.0,43.91,Weekend Differential,Approved
+EMP-1253,Human Resources,Hourly,40.0,5.0,29.39,Night,Approved
+EMP-1254,Facilities,Salaried,40.0,0.0,48.03,Night,Approved
+EMP-1255,Human Resources,Hourly,40.0,8.5,19.76,Day,Approved
+EMP-1256,Facilities,Hourly,40.0,8.5,19.84,Night,Approved
+EMP-1257,Customer Support,Hourly,40.0,8.5,31.72,Weekend Differential,Approved
+EMP-1258,Human Resources,Salaried,40.0,0.0,50.74,Night,Approved
+EMP-1259,Operations,Hourly,40.0,2.5,29.95,Night,Approved
+EMP-1260,Customer Support,Hourly,40.0,8.5,32.79,Weekend Differential,Flagged-Manager Review
+EMP-1261,Operations,Hourly,40.0,0.0,28.76,Day,Approved
+EMP-1262,Human Resources,Hourly,40.0,2.5,25.14,Day,Approved
+EMP-1263,Customer Support,Hourly,40.0,8.5,23.51,Weekend Differential,Approved
+EMP-1264,Operations,Hourly,40.0,0.0,30.83,Weekend Differential,Approved
+EMP-1265,Operations,Hourly,40.0,5.0,29.25,Weekend Differential,Approved
+EMP-1266,Facilities,Hourly,40.0,8.5,21.66,Day,Flagged-Manager Review
+EMP-1267,Facilities,Hourly,40.0,8.5,29.53,Night,Flagged-Manager Review
+EMP-1268,Operations,Hourly,40.0,0.0,34.74,Day,Approved
+EMP-1269,Logistics,Hourly,40.0,0.0,21.59,Night,Approved
+EMP-1270,Customer Support,Hourly,40.0,12.0,18.13,Night,Approved
+EMP-1271,Logistics,Hourly,40.0,8.5,29.96,Weekend Differential,Flagged-Manager Review
+EMP-1272,Operations,Hourly,40.0,5.0,30.61,Day,Approved
+EMP-1273,Facilities,Salaried,40.0,0.0,51.55,Weekend Differential,Approved
+EMP-1274,Facilities,Hourly,40.0,5.0,30.06,Night,Approved
+EMP-1275,Operations,Hourly,40.0,0.0,34.43,Weekend Differential,Approved
+EMP-1276,Facilities,Salaried,40.0,0.0,52.99,Day,Approved
+EMP-1277,Facilities,Salaried,40.0,0.0,36.08,Weekend Differential,Approved
+EMP-1278,Facilities,Hourly,40.0,2.5,24.73,Weekend Differential,Approved
+EMP-1279,Customer Support,Hourly,40.0,0.0,31.25,Weekend Differential,Approved
+EMP-1280,Operations,Hourly,40.0,2.5,21.3,Night,Approved
+EMP-1281,Logistics,Hourly,40.0,0.0,20.49,Day,Approved
+EMP-1282,Human Resources,Hourly,40.0,0.0,30.91,Day,Approved
+EMP-1283,Facilities,Hourly,40.0,8.5,27.58,Night,Flagged-Manager Review
+EMP-1284,Customer Support,Hourly,40.0,5.0,19.16,Weekend Differential,Approved
+EMP-1285,Customer Support,Hourly,40.0,2.5,28.05,Weekend Differential,Approved
+EMP-1286,Operations,Hourly,40.0,0.0,25.68,Night,Approved
+EMP-1287,Customer Support,Hourly,40.0,0.0,32.69,Weekend Differential,Approved
+EMP-1288,Human Resources,Hourly,40.0,8.5,25.87,Weekend Differential,Approved
+EMP-1289,Facilities,Salaried,40.0,0.0,44.29,Day,Approved
+EMP-1290,Customer Support,Hourly,40.0,0.0,26.52,Night,Approved
+EMP-1291,Operations,Salaried,40.0,0.0,50.93,Weekend Differential,Approved
+EMP-1292,Operations,Hourly,40.0,0.0,20.93,Weekend Differential,Approved
+EMP-1293,Facilities,Salaried,40.0,0.0,43.1,Weekend Differential,Approved
+EMP-1294,Logistics,Hourly,40.0,5.0,33.6,Night,Approved
+EMP-1295,Customer Support,Hourly,40.0,12.0,18.89,Weekend Differential,Flagged-Manager Review
+EMP-1296,Operations,Hourly,40.0,5.0,27.49,Night,Approved
+EMP-1297,Customer Support,Hourly,40.0,8.5,29.16,Day,Flagged-Manager Review
+EMP-1298,Operations,Hourly,40.0,2.5,20.4,Night,Approved
+EMP-1299,Facilities,Hourly,40.0,0.0,30.05,Night,Approved
+EMP-1300,Human Resources,Hourly,40.0,0.0,31.46,Weekend Differential,Approved
+EMP-1301,Human Resources,Hourly,40.0,8.5,29.4,Night,Approved
+EMP-1302,Customer Support,Hourly,40.0,2.5,34.17,Night,Approved
+EMP-1303,Logistics,Hourly,40.0,0.0,20.34,Night,Approved
+EMP-1304,Operations,Hourly,40.0,12.0,27.18,Weekend Differential,Approved
+EMP-1305,Customer Support,Salaried,40.0,0.0,45.45,Weekend Differential,Approved
+EMP-1306,Facilities,Hourly,40.0,12.0,21.07,Weekend Differential,Approved
+EMP-1307,Facilities,Hourly,40.0,12.0,24.19,Day,Flagged-Manager Review
+EMP-1308,Human Resources,Hourly,40.0,5.0,30.73,Day,Approved
+EMP-1309,Human Resources,Hourly,40.0,5.0,34.42,Day,Approved
+EMP-1310,Customer Support,Hourly,40.0,5.0,27.7,Night,Approved
+EMP-1311,Customer Support,Hourly,40.0,5.0,26.55,Day,Approved
+EMP-1312,Logistics,Salaried,40.0,0.0,33.46,Night,Approved
+EMP-1313,Operations,Hourly,40.0,8.5,32.86,Day,Approved
+EMP-1314,Customer Support,Hourly,40.0,5.0,20.73,Weekend Differential,Approved
+EMP-1315,Logistics,Salaried,40.0,0.0,32.29,Day,Approved
+EMP-1316,Facilities,Salaried,40.0,0.0,53.26,Night,Approved
+EMP-1317,Operations,Hourly,40.0,5.0,24.36,Day,Approved
+EMP-1318,Customer Support,Hourly,40.0,0.0,23.42,Weekend Differential,Approved
+EMP-1319,Customer Support,Hourly,40.0,2.5,20.34,Night,Approved
+EMP-1320,Logistics,Hourly,40.0,8.5,25.97,Day,Approved
+EMP-1321,Operations,Hourly,40.0,8.5,32.19,Weekend Differential,Flagged-Manager Review
+EMP-1322,Operations,Hourly,40.0,0.0,22.04,Day,Approved
+EMP-1323,Logistics,Hourly,40.0,5.0,31.5,Day,Approved
+EMP-1324,Operations,Salaried,40.0,0.0,42.5,Weekend Differential,Approved
+EMP-1325,Operations,Hourly,40.0,12.0,27.78,Day,Flagged-Manager Review
+EMP-1326,Facilities,Hourly,40.0,8.5,24.0,Night,Approved
+EMP-1327,Operations,Hourly,40.0,8.5,24.13,Weekend Differential,Approved
+EMP-1328,Facilities,Salaried,40.0,0.0,31.09,Night,Approved
+EMP-1329,Customer Support,Hourly,40.0,0.0,18.28,Night,Approved
+EMP-1330,Logistics,Hourly,40.0,8.5,28.68,Weekend Differential,Flagged-Manager Review
+EMP-1331,Logistics,Hourly,40.0,12.0,27.28,Day,Flagged-Manager Review
+EMP-1332,Facilities,Hourly,40.0,0.0,31.8,Weekend Differential,Approved
+EMP-1333,Facilities,Hourly,40.0,0.0,21.43,Day,Approved
+EMP-1334,Customer Support,Salaried,40.0,0.0,42.88,Weekend Differential,Approved
+EMP-1335,Facilities,Hourly,40.0,0.0,30.81,Night,Approved
+EMP-1336,Customer Support,Salaried,40.0,0.0,31.2,Weekend Differential,Approved
+EMP-1337,Customer Support,Hourly,40.0,5.0,31.59,Night,Approved
+EMP-1338,Facilities,Salaried,40.0,0.0,39.67,Day,Approved
+EMP-1339,Facilities,Hourly,40.0,8.5,24.24,Night,Approved
+EMP-1340,Facilities,Hourly,40.0,0.0,28.24,Weekend Differential,Approved
+EMP-1341,Customer Support,Hourly,40.0,12.0,19.36,Night,Flagged-Manager Review
+EMP-1342,Facilities,Hourly,40.0,12.0,25.24,Night,Flagged-Manager Review
+EMP-1343,Facilities,Hourly,40.0,2.5,32.79,Weekend Differential,Approved
+EMP-1344,Facilities,Hourly,40.0,0.0,34.66,Day,Approved
+EMP-1345,Facilities,Hourly,40.0,12.0,31.62,Day,Approved
+EMP-1346,Logistics,Salaried,40.0,0.0,46.95,Night,Approved
+EMP-1347,Operations,Hourly,40.0,12.0,22.01,Night,Flagged-Manager Review
+EMP-1348,Facilities,Salaried,40.0,0.0,30.81,Day,Approved
+EMP-1349,Facilities,Salaried,40.0,0.0,39.3,Day,Approved
+EMP-1350,Human Resources,Hourly,40.0,2.5,24.24,Weekend Differential,Approved
+EMP-1351,Customer Support,Hourly,40.0,12.0,19.93,Day,Flagged-Manager Review
+EMP-1352,Human Resources,Hourly,40.0,2.5,27.55,Night,Approved
+EMP-1353,Facilities,Hourly,40.0,12.0,28.4,Night,Approved
+EMP-1354,Operations,Hourly,40.0,0.0,19.26,Weekend Differential,Approved
+EMP-1355,Facilities,Salaried,40.0,0.0,50.26,Night,Approved
+EMP-1356,Customer Support,Hourly,40.0,2.5,27.35,Night,Approved
+EMP-1357,Logistics,Hourly,40.0,12.0,33.76,Day,Flagged-Manager Review
+EMP-1358,Human Resources,Hourly,40.0,0.0,34.75,Day,Approved
+EMP-1359,Facilities,Hourly,40.0,2.5,27.42,Night,Approved
+EMP-1360,Human Resources,Hourly,40.0,0.0,33.03,Night,Approved
+EMP-1361,Facilities,Salaried,40.0,0.0,47.97,Weekend Differential,Approved
+EMP-1362,Facilities,Hourly,40.0,0.0,32.0,Day,Approved
+EMP-1363,Customer Support,Hourly,40.0,12.0,25.65,Weekend Differential,Flagged-Manager Review
+EMP-1364,Logistics,Salaried,40.0,0.0,49.51,Weekend Differential,Approved
+EMP-1365,Human Resources,Hourly,40.0,5.0,34.43,Weekend Differential,Approved
+EMP-1366,Operations,Salaried,40.0,0.0,42.95,Night,Approved
+EMP-1367,Logistics,Hourly,40.0,0.0,33.89,Night,Approved
+EMP-1368,Human Resources,Salaried,40.0,0.0,51.15,Night,Approved
+EMP-1369,Logistics,Hourly,40.0,0.0,27.36,Weekend Differential,Approved
+EMP-1370,Customer Support,Hourly,40.0,12.0,19.59,Day,Approved
+EMP-1371,Logistics,Hourly,40.0,8.5,30.25,Night,Approved
+EMP-1372,Operations,Hourly,40.0,8.5,34.13,Night,Approved
+EMP-1373,Human Resources,Hourly,40.0,5.0,28.86,Weekend Differential,Approved
+EMP-1374,Human Resources,Hourly,40.0,5.0,34.26,Day,Approved
+EMP-1375,Facilities,Hourly,40.0,0.0,19.24,Day,Approved
+EMP-1376,Facilities,Hourly,40.0,2.5,25.9,Weekend Differential,Approved
+EMP-1377,Logistics,Hourly,40.0,12.0,30.21,Night,Flagged-Manager Review
+EMP-1378,Logistics,Hourly,40.0,0.0,26.75,Night,Approved
+EMP-1379,Logistics,Hourly,40.0,0.0,22.55,Day,Approved
+EMP-1380,Operations,Hourly,40.0,8.5,34.07,Night,Approved
+EMP-1381,Logistics,Salaried,40.0,0.0,53.34,Weekend Differential,Approved
+EMP-1382,Customer Support,Hourly,40.0,8.5,20.71,Night,Flagged-Manager Review
+EMP-1383,Customer Support,Hourly,40.0,5.0,19.53,Weekend Differential,Approved
+EMP-1384,Facilities,Salaried,40.0,0.0,35.38,Night,Approved
+EMP-1385,Operations,Hourly,40.0,12.0,26.41,Weekend Differential,Flagged-Manager Review
+EMP-1386,Customer Support,Hourly,40.0,5.0,32.4,Day,Approved
+EMP-1387,Customer Support,Hourly,40.0,2.5,30.99,Day,Approved
+EMP-1388,Facilities,Hourly,40.0,2.5,27.55,Weekend Differential,Approved
+EMP-1389,Customer Support,Hourly,40.0,8.5,26.57,Night,Approved
+EMP-1390,Logistics,Salaried,40.0,0.0,39.85,Night,Approved
+EMP-1391,Human Resources,Salaried,40.0,0.0,48.87,Day,Approved
+EMP-1392,Human Resources,Hourly,40.0,0.0,26.5,Day,Approved
+EMP-1393,Logistics,Hourly,40.0,8.5,31.67,Night,Approved
+EMP-1394,Human Resources,Salaried,40.0,0.0,33.49,Weekend Differential,Approved
+EMP-1395,Customer Support,Hourly,40.0,12.0,34.84,Night,Flagged-Manager Review
+EMP-1396,Human Resources,Salaried,40.0,0.0,43.31,Weekend Differential,Approved
+EMP-1397,Human Resources,Hourly,40.0,2.5,31.87,Night,Approved
+EMP-1398,Operations,Salaried,40.0,0.0,44.59,Weekend Differential,Approved
+EMP-1399,Operations,Hourly,40.0,12.0,22.51,Weekend Differential,Approved
+EMP-1400,Operations,Hourly,40.0,12.0,20.9,Weekend Differential,Flagged-Manager Review
+EMP-1401,Logistics,Salaried,40.0,0.0,36.05,Weekend Differential,Approved
+EMP-1402,Operations,Hourly,40.0,5.0,25.5,Day,Approved
+EMP-1403,Facilities,Hourly,40.0,8.5,24.98,Night,Approved
+EMP-1404,Logistics,Hourly,40.0,12.0,27.54,Night,Flagged-Manager Review
+EMP-1405,Customer Support,Salaried,40.0,0.0,41.49,Weekend Differential,Approved
+EMP-1406,Customer Support,Hourly,40.0,12.0,29.49,Weekend Differential,Flagged-Manager Review
+EMP-1407,Human Resources,Hourly,40.0,2.5,34.27,Weekend Differential,Approved
+EMP-1408,Customer Support,Hourly,40.0,2.5,34.54,Night,Approved
+EMP-1409,Logistics,Hourly,40.0,5.0,26.31,Night,Approved
+EMP-1410,Human Resources,Salaried,40.0,0.0,49.89,Night,Approved
+EMP-1411,Customer Support,Hourly,40.0,5.0,29.5,Night,Approved
+EMP-1412,Customer Support,Salaried,40.0,0.0,50.12,Night,Approved
+EMP-1413,Operations,Hourly,40.0,2.5,30.14,Night,Approved
+EMP-1414,Customer Support,Hourly,40.0,8.5,21.64,Night,Flagged-Manager Review
+EMP-1415,Logistics,Hourly,40.0,0.0,30.6,Day,Approved
+EMP-1416,Operations,Hourly,40.0,12.0,27.03,Day,Approved
+EMP-1417,Operations,Hourly,40.0,0.0,30.2,Weekend Differential,Approved
+EMP-1418,Logistics,Hourly,40.0,0.0,27.36,Night,Approved
+EMP-1419,Facilities,Hourly,40.0,2.5,21.39,Night,Approved
+EMP-1420,Customer Support,Hourly,40.0,0.0,33.43,Weekend Differential,Approved
+EMP-1421,Human Resources,Hourly,40.0,0.0,30.56,Day,Approved
+EMP-1422,Facilities,Salaried,40.0,0.0,34.39,Day,Approved
+EMP-1423,Facilities,Hourly,40.0,12.0,21.17,Night,Approved
+EMP-1424,Operations,Hourly,40.0,2.5,28.25,Night,Approved
+EMP-1425,Facilities,Salaried,40.0,0.0,43.58,Night,Approved
+EMP-1426,Logistics,Salaried,40.0,0.0,41.7,Day,Approved
+EMP-1427,Operations,Hourly,40.0,12.0,30.43,Night,Approved
+EMP-1428,Operations,Hourly,40.0,8.5,31.44,Weekend Differential,Approved
+EMP-1429,Logistics,Hourly,40.0,5.0,28.86,Night,Approved
+EMP-1430,Human Resources,Hourly,40.0,0.0,24.81,Day,Approved
+EMP-1431,Logistics,Hourly,40.0,0.0,33.91,Night,Approved
+EMP-1432,Facilities,Hourly,40.0,2.5,30.81,Night,Approved
+EMP-1433,Human Resources,Hourly,40.0,12.0,18.19,Night,Approved
+EMP-1434,Operations,Hourly,40.0,0.0,25.91,Night,Approved
+EMP-1435,Human Resources,Salaried,40.0,0.0,52.2,Night,Approved
+EMP-1436,Operations,Hourly,40.0,2.5,33.99,Weekend Differential,Approved
+EMP-1437,Logistics,Hourly,40.0,0.0,20.27,Night,Approved
+EMP-1438,Human Resources,Hourly,40.0,5.0,29.93,Weekend Differential,Approved
+EMP-1439,Logistics,Hourly,40.0,8.5,29.57,Day,Flagged-Manager Review
+EMP-1440,Human Resources,Hourly,40.0,8.5,19.33,Day,Approved
+EMP-1441,Human Resources,Salaried,40.0,0.0,35.05,Weekend Differential,Approved
+EMP-1442,Logistics,Hourly,40.0,5.0,32.53,Day,Approved
+EMP-1443,Logistics,Hourly,40.0,8.5,26.31,Night,Approved
+EMP-1444,Facilities,Hourly,40.0,8.5,25.06,Day,Flagged-Manager Review
+EMP-1445,Customer Support,Hourly,40.0,0.0,24.73,Weekend Differential,Approved
+EMP-1446,Logistics,Hourly,40.0,2.5,18.77,Weekend Differential,Approved
+EMP-1447,Operations,Hourly,40.0,0.0,19.02,Night,Approved
+EMP-1448,Operations,Hourly,40.0,0.0,21.06,Weekend Differential,Approved
+EMP-1449,Facilities,Hourly,40.0,5.0,33.15,Night,Approved
+EMP-1450,Facilities,Hourly,40.0,8.5,34.39,Day,Flagged-Manager Review
+EMP-1451,Operations,Hourly,40.0,8.5,27.13,Day,Approved
+EMP-1452,Operations,Hourly,40.0,5.0,34.63,Weekend Differential,Approved
+EMP-1453,Human Resources,Hourly,40.0,0.0,24.45,Day,Approved
+EMP-1454,Facilities,Hourly,40.0,12.0,22.69,Day,Approved
+EMP-1455,Facilities,Hourly,40.0,0.0,33.92,Day,Approved
+EMP-1456,Logistics,Hourly,40.0,5.0,28.1,Weekend Differential,Approved
+EMP-1457,Operations,Hourly,40.0,5.0,18.75,Day,Approved
+EMP-1458,Human Resources,Hourly,40.0,0.0,32.68,Day,Approved
+EMP-1459,Human Resources,Salaried,40.0,0.0,35.85,Weekend Differential,Approved
+EMP-1460,Human Resources,Hourly,40.0,12.0,28.16,Night,Approved
+EMP-1461,Customer Support,Salaried,40.0,0.0,54.64,Weekend Differential,Approved
+EMP-1462,Logistics,Hourly,40.0,8.5,22.68,Weekend Differential,Approved
+EMP-1463,Facilities,Hourly,40.0,2.5,18.8,Weekend Differential,Approved
+EMP-1464,Facilities,Hourly,40.0,5.0,23.42,Night,Approved
+EMP-1465,Logistics,Hourly,40.0,8.5,21.13,Night,Approved
+EMP-1466,Logistics,Hourly,40.0,5.0,30.03,Day,Approved
+EMP-1467,Human Resources,Hourly,40.0,8.5,25.08,Day,Flagged-Manager Review
+EMP-1468,Logistics,Hourly,40.0,0.0,23.61,Night,Approved
+EMP-1469,Customer Support,Hourly,40.0,0.0,30.32,Day,Approved
+EMP-1470,Customer Support,Hourly,40.0,0.0,28.28,Day,Approved
+EMP-1471,Logistics,Salaried,40.0,0.0,44.69,Weekend Differential,Approved
+EMP-1472,Human Resources,Hourly,40.0,2.5,21.55,Night,Approved
+EMP-1473,Operations,Hourly,40.0,12.0,21.23,Day,Flagged-Manager Review
+EMP-1474,Logistics,Hourly,40.0,5.0,29.96,Day,Approved
+EMP-1475,Human Resources,Hourly,40.0,5.0,22.81,Weekend Differential,Approved
+EMP-1476,Customer Support,Hourly,40.0,5.0,24.11,Night,Approved
+EMP-1477,Operations,Salaried,40.0,0.0,48.06,Night,Approved
+EMP-1478,Logistics,Hourly,40.0,8.5,25.04,Day,Approved
+EMP-1479,Operations,Hourly,40.0,8.5,33.89,Weekend Differential,Flagged-Manager Review
+EMP-1480,Customer Support,Hourly,40.0,5.0,23.61,Weekend Differential,Approved
+EMP-1481,Logistics,Hourly,40.0,12.0,29.13,Night,Flagged-Manager Review
+EMP-1482,Facilities,Salaried,40.0,0.0,46.04,Night,Approved
+EMP-1483,Facilities,Hourly,40.0,0.0,31.51,Day,Approved
+EMP-1484,Human Resources,Hourly,40.0,8.5,33.59,Weekend Differential,Approved
+EMP-1485,Human Resources,Hourly,40.0,12.0,32.39,Day,Approved
+EMP-1486,Facilities,Hourly,40.0,0.0,28.72,Weekend Differential,Approved
+EMP-1487,Logistics,Hourly,40.0,2.5,26.6,Day,Approved
+EMP-1488,Human Resources,Hourly,40.0,5.0,33.88,Weekend Differential,Approved
+EMP-1489,Facilities,Hourly,40.0,5.0,27.05,Day,Approved
+EMP-1490,Operations,Hourly,40.0,2.5,22.67,Day,Approved
+EMP-1491,Human Resources,Salaried,40.0,0.0,46.85,Day,Approved
+EMP-1492,Operations,Salaried,40.0,0.0,43.11,Day,Approved
+EMP-1493,Logistics,Hourly,40.0,2.5,22.29,Night,Approved
+EMP-1494,Facilities,Hourly,40.0,5.0,34.31,Weekend Differential,Approved
+EMP-1495,Logistics,Salaried,40.0,0.0,35.65,Weekend Differential,Approved
+EMP-1496,Operations,Hourly,40.0,0.0,32.59,Day,Approved
+EMP-1497,Facilities,Hourly,40.0,0.0,27.4,Weekend Differential,Approved
+EMP-1498,Operations,Hourly,40.0,5.0,19.41,Weekend Differential,Approved
+EMP-1499,Customer Support,Hourly,40.0,0.0,32.59,Weekend Differential,Approved
+EMP-1500,Operations,Hourly,40.0,12.0,33.32,Weekend Differential,Flagged-Manager Review
