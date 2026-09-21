@@ -2,7 +2,7 @@
 
 ## 📊 Executive Power BI Dashboard
 
-![Labor Efficiency Dashboard](docs/dashboard_preview.png)
+![Labor Efficiency Dashboard](docs/labor-efficiency-cost-leakage-dashboard.png)
 
 An automated HRIS and People Analytics pipeline built to ingest raw timecard logs, load them into a relational database, and transform the data to identify labor cost leakage (specifically excessive overtime and operational inefficiencies) by department.
 
